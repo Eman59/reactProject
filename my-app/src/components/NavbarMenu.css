@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-brand{
+    font-weight: 900;
+    letter-spacing: 1px;
+    padding-right: 5px;
+}
+
+.nav-link{
+    margin-right: 37px;
+    text-decoration: solid;
+    letter-spacing: 1px;
+}
+
+.nav-link:hover{
+    text-decoration: solid;
+    color: rgba(255, 255, 255, 0.822);
+    font-weight: 900;
+}
